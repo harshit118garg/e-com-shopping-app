@@ -1,0 +1,5 @@
+https://fakestoreapi.com/products
+
+{/* {list.map((item) => (
+                <Card key={item.id} item={item} />
+              ))} */}

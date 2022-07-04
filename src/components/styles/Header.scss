@@ -1,0 +1,15 @@
+@import "../../sass/mixin";
+@import "../../sass/variables";
+
+.itemCategories {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    button {
+        outline: none;
+        border: none;
+        text-transform: uppercase;
+        background-color: $yellowColor;
+    }
+}
